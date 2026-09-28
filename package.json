@@ -1,0 +1,29 @@
+{
+  "name": "@theworker02/steerproc",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Steer color proc values and contrast-safe presentation helpers.",
+  "bin": {
+    "steerproc": "src/cli.js"
+  },
+  "main": "./src/index.js",
+  "scripts": {
+    "test": "node --test"
+  },
+  "license": "MIT",
+  "engines": {
+    "node": ">=18"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/theworker02/steerproc.git"
+  },
+  "homepage": "https://theworker02.github.io/steerproc/",
+  "keywords": [
+    "steer",
+    "proc",
+    "color",
+    "cli",
+    "toolkit"
+  ]
+}
